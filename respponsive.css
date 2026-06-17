@@ -1,0 +1,15 @@
+@media(max-width:768px)
+{
+
+.navbar .container{
+    flex-direction:column;
+    gap:15px;
+}
+
+
+.nav-links{
+    flex-direction:column;
+    text-align:center;
+}
+
+}

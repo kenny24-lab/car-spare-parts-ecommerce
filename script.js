@@ -1,0 +1,1 @@
+console.log("AutoParts Hub loaded successfully.");
